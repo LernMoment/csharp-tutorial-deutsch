@@ -1,0 +1,3 @@
+1, Küche, Haushaltsgeräte
+2, Wohnzimmer, Sachbücher
+3, Schlafzimmer, Bettwäsche
